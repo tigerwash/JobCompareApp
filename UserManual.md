@@ -13,12 +13,12 @@ The user can perform the following actions:
 * Adjust the comparator settings
 * Choose jobs to compare
 
-![Portal](images/portal.jpg)
+![Portal](./Docs/images/portal.jpg)
 
 ## CURRENT JOB
 By pressing this button, the user will be able to add/view/edit your current job entry. To finalize changes in the Current Job screen, press the “SAVE CURRENT JOB” button. If the user does not want to save the changes or want to return to the main menu, press the "CANCEL" button or use your device’s back button.
 
-![Current Job](.Docs/images/Current.jpg)
+![Current Job](./Docs/images/Current.jpg)
 
 ## ADD AN JOB OFFER
 To add a job offer to be evaluated, fill in all required fields and click “SAVE JOB OFFER”. After the job offer is entered, the user should have an option to “ENTER ANOTHER JOB” or “CANCEL” out of the page. If the current job exists, the user can “COMPARE WITH CURRENT JOB”.
