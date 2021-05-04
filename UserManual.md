@@ -23,7 +23,7 @@ By pressing this button, the user will be able to add/view/edit your current job
 ## ADD AN JOB OFFER
 To add a job offer to be evaluated, fill in all required fields and click “SAVE JOB OFFER”. After the job offer is entered, the user should have an option to “ENTER ANOTHER JOB” or “CANCEL” out of the page. If the current job exists, the user can “COMPARE WITH CURRENT JOB”.
 
-![Job Offer](./images/JobOffer.jpg)
+![Job Offer](./Docs/images/JobOffer.jpg)
 
 ## SETTINGS
 The user is allowed to set the weights(1-5) on the following job aspect:
@@ -36,16 +36,16 @@ The user is allowed to set the weights(1-5) on the following job aspect:
 
 Weights will be used for rank jobs when selecting for comparison.
 
-![Compare](./images/Settings.jpg)
+![Compare](./Docs/images/Settings.jpg)
 
 
 ## COMPARE
 When choosing to compare, the user is offered to select two jobs to compare side by side. Click on the “FIRST JOB TO COMPARE” to select the first job. A wheel view dialog of all entered jobs will appear and allow the user to select. All of the jobs displayed in the wheel view dialog are already ranked according to the current comparator setting. Same applies to the “SECOND JOB TO COMPARE“. 
 
-![toCompare](./images/toCompare.jpg)
+![toCompare](./Docs/images/toCompare.jpg)
 
 ## Result
 
 After both jobs have been selected, and the “COMPARE” button is clicked, a result page of side to side comparison will show up and allow the user to compare. Another compare can also operate by clicking "ANOTHER COMPARE". “RETURN” will get the user back to the menu page.
 
-![Compare](./images/Compare.jpg)
+![Compare](./Docs/images/Compare.jpg)
